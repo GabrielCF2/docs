@@ -1,0 +1,15 @@
+input: .
+output: .retype
+url: devbaraus.ddns.net
+branding:
+  title: Comp Craft
+  label: docs
+links:
+- text: Mapa
+  link: https://devbaraus.ddns.net/map/
+  target: blank
+- text: Discord
+  link: https://discord.com/invite/hRpGQHaXfW
+  target: blank
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."

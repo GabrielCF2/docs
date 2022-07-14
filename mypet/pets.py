@@ -1,9 +1,6 @@
 import yaml
-from googletrans import Translator
 import re
 
-## PETS DOMÁVEIS
-translator = Translator()
 
 read_path = '/mnt/MOOKER/survi_craft/plugins/MyPet/pet-config.yml'
 write_path = '/mnt/MOOKER/survi_craft/docs/mypet/pets.md'

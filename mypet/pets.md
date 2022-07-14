@@ -7,7 +7,7 @@ icon: ':rabbit:'
 Pet | HP | Velocidade | Comida | Requerimento
 --- | --- | --- | --- | ---
 Axolotl | 20.0 | 0.3 | Tropical fish | Low HP 
-Allay | 20.0 | 0.3 | Apple | Low HP 
+Allay | 20.0 | 0.3 | Apple, Cookie | Low HP 
 Bat | 20.0 | 0.3 | Spider eye | Low HP 
 Bee | 20.0 | 0.3 | Poppy, Dandelion, Blue orchid, Allium, Azure bluet, Red tulip, Orange tulip, White tulip, Pink tulip, Oxeye daisy, Cornflower, Lily of the valley, Wither rose | Low HP 
 Blaze | 20.0 | 0.3 | Gunpowder | Low HP 

@@ -1,3 +1,6 @@
+---
+icon: ':earth_americas:'
+---
 # Lands
 Sempre sonhou em ter a tão querida casa própria?
 

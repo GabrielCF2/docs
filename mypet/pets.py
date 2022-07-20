@@ -2,8 +2,8 @@ import yaml
 import re
 
 
-read_path = '/mnt/MOOKER/survi_craft/plugins/MyPet/pet-config.yml'
-write_path = '/mnt/MOOKER/survi_craft/docs/mypet/pets.md'
+read_path = '/mnt/MOOKER/cumcraft/plugins/MyPet/pet-config.yml'
+write_path = '/mnt/MOOKER/cumcraft/docs/mypet/pets.md'
 
 pets = None
 

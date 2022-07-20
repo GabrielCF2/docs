@@ -3,7 +3,8 @@ output: .retype
 url: devbaraus.ddns.net
 branding:
   title: Comp Craft
-  label: docs
+  logo: images/86529008.png
+favicon: images/86529008.png
 links:
 - text: Mapa
   link: https://devbaraus.ddns.net/map/
@@ -11,5 +12,8 @@ links:
 - text: Discord
   link: https://discord.com/invite/hRpGQHaXfW
   target: blank
+edit:
+  repo: "https://github.com/compcraft/docs/"
+  label: Edit on GitHub
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."

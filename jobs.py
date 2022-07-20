@@ -1,7 +1,7 @@
 import yaml
 from os import walk
 
-path_read = '/mnt/MOOKER/survi_craft/plugins/Jobs/jobs'
+path_read = '/mnt/MOOKER/cumcraft/plugins/Jobs/jobs'
 
 filenames = next(walk(path_read), (None, None, []))[2]  # [] if no file
 

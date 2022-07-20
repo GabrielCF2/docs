@@ -7,19 +7,6 @@ Jobs são formas de ganhar dinheiro realizando alguma tarefa
 ## Jobs disponíveis 
 Abaixo são alguns dos trabalhos disponíveis e quanto é pago para cada atividade.
 
-### Explorer
-Earns money from exploring map.
-
-Atividade | Objeto | Preço
---- | --- | ---
-Explore | 1 | 1.25  
-Explore | 2 | 0.62  
-Explore | 3 | 0.25  
-Explore | 4 | 0.12  
-Explore | 5 | 0.03  
-
-
-
 ### Digger
 Earns money for terraforming the world.
 
@@ -32,39 +19,6 @@ Break | Grass block | 0.07
 Break | Gravel | 0.25  
 Break | Red sand | 0.25  
 Break | Sand | 0.1  
-
-
-
-### Enchanter
-Earns money enchanting weapons.
-
-Atividade | Objeto | Preço
---- | --- | ---
-Enchant | Diamond axe | 2.5  
-Enchant | Diamond boots | 1.5  
-Enchant | Diamond chestplate | 3.0  
-Enchant | Diamond helmet | 1.5  
-Enchant | Diamond leggings | 3.0  
-Enchant | Diamond pickaxe | 2.5  
-Enchant | Diamond spade | 1.25  
-Enchant | Diamond sword | 2.25  
-Enchant | Durability-1 | 2.5  
-Enchant | Fire aspect-2 | 5.0  
-Enchant | Gold boots | 0.62  
-Enchant | Gold chestplate | 1.38  
-Enchant | Gold helmet | 0.62  
-Enchant | Gold leggings | 1.38  
-Enchant | Gold sword | 1.12  
-Enchant | Iron boots | 0.62  
-Enchant | Iron chestplate | 1.12  
-Enchant | Iron helmet | 0.62  
-Enchant | Iron leggings | 1.12  
-Enchant | Iron sword | 0.75  
-Enchant | Leather boots | 0.25  
-Enchant | Leather chestplate | 0.5  
-Enchant | Leather helmet | 0.25  
-Enchant | Leather leggings | 0.5  
-Enchant | Wood sword | 0.38  
 
 
 
@@ -107,56 +61,6 @@ TNTBreak | Andesite | 0.06
 TNTBreak | Diorite | 0.06  
 TNTBreak | Granite | 0.06  
 TNTBreak | Stone | 0.06  
-
-
-
-### Weaponsmith
-Earns money from crafting and repairing weapons.
-
-Atividade | Objeto | Preço
---- | --- | ---
-Craft | Diamond axe | 3.0  
-Craft | Diamond boots | 4.0  
-Craft | Diamond chestplate | 8.0  
-Craft | Diamond helmet | 5.0  
-Craft | Diamond leggings | 7.0  
-Craft | Diamond pickaxe | 3.0  
-Craft | Diamond sword | 2.0  
-Craft | Gold boots | 3.0  
-Craft | Gold chestplate | 6.0  
-Craft | Gold helmet | 3.75  
-Craft | Gold leggings | 5.25  
-Craft | Gold sword | 1.5  
-Craft | Iron boots | 2.0  
-Craft | Iron chestplate | 4.0  
-Craft | Iron helmet | 2.5  
-Craft | Iron leggings | 3.5  
-Craft | Iron sword | 1.0  
-Craft | Leather boots | 0.75  
-Craft | Leather chestplate | 1.0  
-Craft | Leather helmet | 0.62  
-Craft | Leather leggings | 0.88  
-Craft | Turtle helmet | 5.0  
-Craft | Wooden sword | 0.25  
-Repair | Diamond sword | 1.0  
-Repair | Gold sword | 0.75  
-Repair | Iron sword | 0.5  
-Repair | Wood sword | 0.25  
-Smelt | Diamond | 1.75  
-Smelt | Gold ingot | 1.25  
-Smelt | Iron ingot | 0.33  
-
-
-
-### Fisherman
-Earns money from fishing.
-
-Atividade | Objeto | Preço
---- | --- | ---
-Fish | Cod | 3.75  
-Fish | Pufferfish | 6.25  
-Fish | Salmon | 5.0  
-Fish | Tropical fish | 6.25  
 
 
 
@@ -301,6 +205,78 @@ Tame | Llama | 1.25
 Tame | Ocelot | 1.25  
 Tame | Parrot | 1.25  
 Tame | Wolf | 1.25  
+
+
+
+### Woodcutter
+Earns money felling and planting trees
+
+Atividade | Objeto | Preço
+--- | --- | ---
+Break | Acacia log | 0.25  
+Break | Birch log | 0.25  
+Break | Dark oak log | 0.25  
+Break | Jungle log | 0.25  
+Break | Oak log | 0.25  
+Break | Spruce log | 0.25  
+Break | Stripped acacia log | 0.25  
+Break | Stripped birch log | 0.25  
+Break | Stripped dark oak log | 0.25  
+Break | Stripped jungle log | 0.25  
+Break | Stripped oak log | 0.25  
+Break | Stripped spruce log | 0.25  
+Kill | Player | 1.88  
+
+
+
+### Explorer
+Earns money from exploring map.
+
+Atividade | Objeto | Preço
+--- | --- | ---
+Explore | 1 | 1.25  
+Explore | 2 | 0.62  
+Explore | 3 | 0.25  
+Explore | 4 | 0.12  
+Explore | 5 | 0.03  
+
+
+
+### Weaponsmith
+Earns money from crafting and repairing weapons.
+
+Atividade | Objeto | Preço
+--- | --- | ---
+Craft | Diamond axe | 3.0  
+Craft | Diamond boots | 4.0  
+Craft | Diamond chestplate | 8.0  
+Craft | Diamond helmet | 5.0  
+Craft | Diamond leggings | 7.0  
+Craft | Diamond pickaxe | 3.0  
+Craft | Diamond sword | 2.0  
+Craft | Gold boots | 3.0  
+Craft | Gold chestplate | 6.0  
+Craft | Gold helmet | 3.75  
+Craft | Gold leggings | 5.25  
+Craft | Gold sword | 1.5  
+Craft | Iron boots | 2.0  
+Craft | Iron chestplate | 4.0  
+Craft | Iron helmet | 2.5  
+Craft | Iron leggings | 3.5  
+Craft | Iron sword | 1.0  
+Craft | Leather boots | 0.75  
+Craft | Leather chestplate | 1.0  
+Craft | Leather helmet | 0.62  
+Craft | Leather leggings | 0.88  
+Craft | Turtle helmet | 5.0  
+Craft | Wooden sword | 0.25  
+Repair | Diamond sword | 1.0  
+Repair | Gold sword | 0.75  
+Repair | Iron sword | 0.5  
+Repair | Wood sword | 0.25  
+Smelt | Diamond | 1.75  
+Smelt | Gold ingot | 1.25  
+Smelt | Iron ingot | 0.33  
 
 
 
@@ -601,24 +577,48 @@ Place | Yellow terracotta | 0.38
 
 
 
-### Woodcutter
-Earns money felling and planting trees
+### Fisherman
+Earns money from fishing.
 
 Atividade | Objeto | Preço
 --- | --- | ---
-Break | Acacia log | 0.25  
-Break | Birch log | 0.25  
-Break | Dark oak log | 0.25  
-Break | Jungle log | 0.25  
-Break | Oak log | 0.25  
-Break | Spruce log | 0.25  
-Break | Stripped acacia log | 0.25  
-Break | Stripped birch log | 0.25  
-Break | Stripped dark oak log | 0.25  
-Break | Stripped jungle log | 0.25  
-Break | Stripped oak log | 0.25  
-Break | Stripped spruce log | 0.25  
-Kill | Player | 1.88  
+Fish | Cod | 3.75  
+Fish | Pufferfish | 6.25  
+Fish | Salmon | 5.0  
+Fish | Tropical fish | 6.25  
+
+
+
+### Enchanter
+Earns money enchanting weapons.
+
+Atividade | Objeto | Preço
+--- | --- | ---
+Enchant | Diamond axe | 2.5  
+Enchant | Diamond boots | 1.5  
+Enchant | Diamond chestplate | 3.0  
+Enchant | Diamond helmet | 1.5  
+Enchant | Diamond leggings | 3.0  
+Enchant | Diamond pickaxe | 2.5  
+Enchant | Diamond spade | 1.25  
+Enchant | Diamond sword | 2.25  
+Enchant | Durability-1 | 2.5  
+Enchant | Fire aspect-2 | 5.0  
+Enchant | Gold boots | 0.62  
+Enchant | Gold chestplate | 1.38  
+Enchant | Gold helmet | 0.62  
+Enchant | Gold leggings | 1.38  
+Enchant | Gold sword | 1.12  
+Enchant | Iron boots | 0.62  
+Enchant | Iron chestplate | 1.12  
+Enchant | Iron helmet | 0.62  
+Enchant | Iron leggings | 1.12  
+Enchant | Iron sword | 0.75  
+Enchant | Leather boots | 0.25  
+Enchant | Leather chestplate | 0.5  
+Enchant | Leather helmet | 0.25  
+Enchant | Leather leggings | 0.5  
+Enchant | Wood sword | 0.38  
 
 
 

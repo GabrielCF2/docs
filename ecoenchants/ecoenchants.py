@@ -2,8 +2,8 @@ import yaml
 import os
 import re
 
-read_path = '/mnt/MOOKER/survi_craft/plugins/EcoEnchants/enchants'
-write_path = '/mnt/MOOKER/survi_craft/docs/ecoenchants'
+read_path = '/mnt/MOOKER/cumcraft/plugins/EcoEnchants/enchants'
+write_path = '/mnt/MOOKER/cumcraft/docs/ecoenchants'
 
 tools = []
 enchants = []

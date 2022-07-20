@@ -1,12 +1,8 @@
 import yaml
-from googletrans import Translator
 import re
 
-## PETS DOMÁVEIS
-translator = Translator()
-
-read_path = '/mnt/MOOKER/survi_craft/plugins/MyPet/pet-shops.yml'
-write_path = '/mnt/MOOKER/survi_craft/docs/mypet/shop.md'
+read_path = '/mnt/MOOKER/cumcraft/plugins/MyPet/pet-shops.yml'
+write_path = '/mnt/MOOKER/cumcraft/docs/mypet/shop.md'
 
 all_pets = None
 baby_pets = None

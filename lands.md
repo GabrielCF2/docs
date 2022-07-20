@@ -15,7 +15,7 @@ Arrasta para cima!
 No servidor você pode requerir 1 (uma) ou mais chunks para si, sendo as 2 primeiras chuncks de graça (minha chunk minha vida) veja como:
 
 ### De inicio as contas
-Você pode execurtar o comando entando dento da chunk que deseja:
+Você pode execurtar o comando entrando dento da chunk que deseja:
 
     /land create <nome>
 _sendo \<nome> o nome da sua terra, nao precisando dos '<' e '>'_

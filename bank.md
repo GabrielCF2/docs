@@ -35,17 +35,17 @@ Para ver quanto de dinheiro você tem depositado utliza-se o comando:
 Para depositar dinheiro no banco use o comando:
 
     /bank money deposit <amount>
-_o <amount>  será de acordo com o tanto que você quer depositar no banco_ 
+_o \<amount>  será de acordo com o tanto que você quer depositar no banco_ 
 
 Para retirar dinheiro do banco use o comando:
 
     /bank money withdraw <amount>
-_o "<amount>  será de acordo com o tanto que você quer retirar do banco_ 
+_o \<amount>  será de acordo com o tanto que você quer retirar do banco_ 
 
 Para mandar dinheiro depositado no banco para outro player use o comando:
 
     /bank money pay <name> <amount>
-_o <name> será o nick do player que você estará pagando e o <amount> será de acordo com o tanto que você quer retirar do banco_ 
+_o \<name> será o nick do player que você estará pagando e o \<amount> será de acordo com o tanto que você quer retirar do banco_ 
 
 ### Comandos com Exp:
 Para ver quanto de XP você tem depositado utliza-se o comando:
@@ -55,7 +55,7 @@ Para ver quanto de XP você tem depositado utliza-se o comando:
 Para depositar dinheiro no banco use o comando:
 
     /bank exp deposit <amount>
-_o <amount>  será de acordo com o tanto que você quer depositar no banco_
+_o \<amount>  será de acordo com o tanto que você quer depositar no banco_
 
 A quantidade de XP não é armazenada em relação a nivel ou seja armazenando 1 XP não será igual ao armazenar 1 nivel total do jogador.
 
@@ -66,7 +66,7 @@ A quantidade de XP não é armazenada em relação a nivel ou seja armazenando 1
 Para retirar XP do banco use o comando:
 
     /bank exp withdraw <amount>
-_o "<amount>  será de acordo com o tanto que você quer retirar do banco_ 
+_o \<amount>  será de acordo com o tanto que você quer retirar do banco_ 
 
 Aviso:
 
